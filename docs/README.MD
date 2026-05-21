@@ -29,7 +29,7 @@ This polyglot codebase relies on a multitude of microservices, implementing seve
 Embark on a journey to transform your applications into cutting-edge, intelligent systems with the self-guided workshop and discover the art of the possible.
 
 ### Frontend
-Interaction with foundation models is more than chat. This sample shows a few use cases 
+Interactions with foundation models is more than chat. This sample shows a few use cases 
 
 ![frontend](./wip-ui.png)
 
